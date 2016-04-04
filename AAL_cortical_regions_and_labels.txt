@@ -1,0 +1,42 @@
+27	REC	Gyrus Rectus
+21	OLF	Olfactory Cortex
+5	ORBsup	Supeiror frontal gyrus, orbital part
+25	ORBsupmed	Superior frontal gyrus, medial orbital
+9	ORBmid	Middle frontal gyrus orbital part
+15	ORBinf	Inferior frontal gyrus, orbital part
+3	SFGdor	Superior frontal gyrus, dorsolateral
+7	MFG	Middle frontal gyrus
+11	IFGoperc	Inferior frontal gyrus, opercular part
+13	IFGtriang	Inferior frontal gyrus, triangular part
+23	SFGmed	Superior frontal gyrus, medial
+19	SMA	Supplementary motor area
+69	PCL	Paracentral lobule
+1	PreCG	Precentral gyrus
+17	ROL	Rolandic operculum
+57	PoCG	Postcentral gyrus
+29	Ins	Insula
+59	SPG	Superior parietal gyrus
+61	IPL	Inferior parietal, but supramarginal and angular gyri
+63	SMG	Supramarginal gyrus
+65	ANG	Angular gyrus
+67	PCUN	Precuneus
+49	SOG	Superior occipital gyrus
+51	MOG	Middle occipital gyrus
+53	IOG	Inferior occipital gyrus
+43	CAL	Calcarine fissure and surrounding cortex
+45	CUN	Cuneus
+47	LING	Lingual gyrus
+55	FFG	Fusiform gyrus
+79	HES	Heschl gyrus
+81	STG	Superior temporal gyrus
+85	MTG	Middle temporal gyrus
+89	ITG	Inferior temporal gyrus
+83	TPOsup	Temporal pole: superior temporal gyrus
+87	TPOmid	Temporal pole: middle temporal gyrus
+39	PHG	Parahippocampal gyrus
+31	ACG	Anterior cingulate and paracingulate gyri
+33	DCG	Median cingulate and paracingulate gyri
+35	PCG	Posterior cingulate gyrus
+
+
+
